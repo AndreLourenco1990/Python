@@ -20,4 +20,7 @@ while saida:
         case 4:
             print("Adeus!") 
             break
+        case _:
+            print("Escolha errada!")
+
     
